@@ -18,4 +18,4 @@
 
 ## Simulator
 <img src = "./CPD_custom1.png">
-<img src = "./CPD_custom2.png">
+<img src = "./CPD_custom.png">
