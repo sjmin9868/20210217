@@ -15,3 +15,7 @@
 
 #### 1:1 stretching image (1픽셀당 1개의 검은 픽셀, 2배 stretching)
 <img src = "./bear_checkerboard_2.jpg">
+
+## Simulator
+<img src = "./CPD_custom1.png">
+<img src = "./CPD_custom2.png">
